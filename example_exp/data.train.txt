@@ -1,0 +1,4 @@
+Play Kuch kuch hota hai by Badshah	Kuch kuch hota hai::song	Badshah::singer
+play kuch kuch hota hai	kuch kuch hota hai::song
+play emosonal aatyachaar by Some Person	emosonal aatyachaar::song	Some Person::singer
+play rubberball on amazon prime	rubberball::song	amazon prime::app

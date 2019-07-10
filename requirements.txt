@@ -1,0 +1,6 @@
+wget==3.2
+nltk==3.4.3
+gensim==3.7.3
+scikit-learn==0.21.2
+sklearn-crfsuite==0.3.6
+joblib==0.13.2
